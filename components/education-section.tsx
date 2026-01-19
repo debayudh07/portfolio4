@@ -38,7 +38,7 @@ export function EducationSection() {
                 <div className="space-y-2 text-[#393939] text-base md:text-[18px] leading-relaxed md:leading-[30px]">
                   <p className="flex items-start gap-2">
                     <span className="text-[#6366F1] font-bold">•</span>
-                    <span>Lead of Google Developer Group (GDG), RCCIIT</span>
+                    <span>Web3 and Blockchain Lead of Google Developer Group (GDG), RCCIIT</span>
                   </p>
                   <p className="flex items-start gap-2">
                     <span className="text-[#6366F1] font-bold">•</span>
