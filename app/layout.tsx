@@ -19,9 +19,24 @@ const onest = Onest({
 })
 
 export const metadata: Metadata = {
-  title: "Paperfolio - Portfolio Landing Page",
-  description: "A playful portfolio landing page",
-  generator: "v0.app",
+  title: "Debayudh Basu - Full-Stack & Web3 Developer",
+  description: "Portfolio of Debayudh Basu, a Full-Stack & Web3 Developer from Kolkata. Building decentralized protocols, enterprise backends, and AI-powered solutions. Specialized in blockchain architecture, full-stack development, and scalable system design.",
+  keywords: ["Web3 Developer", "Blockchain Developer", "Full-Stack Developer", "Smart Contracts", "DeFi", "React", "Next.js", "Solidity", "NestJS", "Mobile Development"],
+  authors: [{ name: "Debayudh Basu" }],
+  creator: "Debayudh Basu",
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    title: "Debayudh Basu - Full-Stack & Web3 Developer",
+    description: "Building decentralized protocols, enterprise backends, and AI-powered solutions",
+    siteName: "Debayudh Basu Portfolio",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Debayudh Basu - Full-Stack & Web3 Developer",
+    description: "Building decentralized protocols, enterprise backends, and AI-powered solutions",
+    creator: "@BasuDebayudh",
+  },
 }
 
 export default function RootLayout({
