@@ -1,0 +1,162 @@
+{
+  "personal_info": {
+    "name": "Debayudh Basu",
+    "email": "debayudhbasu@gmail.com",
+    "links": {
+      "linkedin": "LinkedIn",
+      "github": "Github",
+      "portfolio": "Portfolio/Website"
+    }
+  },
+  "technical_skills": {
+    "blockchain_web3": [
+      "Solidity",
+      "Move",
+      "Foundry",
+      "Hardhat",
+      "Wagmi",
+      "Ethers.js",
+      "Solana",
+      "Aptos",
+      "XMTP",
+      "IPFS"
+    ],
+    "frontend_architecture": [
+      "React.js",
+      "Next.js (SSR/CSR)",
+      "TypeScript",
+      "Tailwind CSS",
+      "Three.js",
+      "React Native"
+    ],
+    "backend_systems": [
+      "NestJS",
+      "Node.js",
+      "Express.js",
+      "Flask",
+      "PostgreSQL",
+      "MongoDB",
+      "Firebase",
+      "Supabase"
+    ],
+    "devops_tools": [
+      "Docker",
+      "AWS",
+      "Azure",
+      "Git",
+      "Vercel",
+      "CI/CD Pipelines",
+      "AI/LLM Integration",
+      "TensorFlow"
+    ]
+  },
+  "professional_experience": [
+    {
+      "role": "MERN and Web3 Intern",
+      "company": "Stellar Code",
+      "location": "Remote",
+      "duration": {
+        "start": "Oct 2025",
+        "end": "Present"
+      },
+      "responsibilities": [
+        "Architected automated liquidity management strategies using custom Uniswap v4 hooks to optimize capital efficiency",
+        "Deployed ERC1967 proxy patterns for upgradeable, gas-optimized smart contracts",
+        "Improved protocol security by adhering to OpenZeppelin standards, reducing reentrancy risks by 40%"
+      ]
+    },
+    {
+      "role": "Backend Developer Intern",
+      "company": "Logiclens Solution Limited",
+      "location": "Remote",
+      "duration": {
+        "start": "Aug 2024",
+        "end": "Jan 2025"
+      },
+      "responsibilities": [
+        "Built a high-throughput backend for an AI-powered CCTV system using Node.js event loops",
+        "Reduced API latency by 40% through optimized payload management",
+        "Designed containerized microservices handling concurrent video streams with 99.9% uptime"
+      ]
+    }
+  ],
+  "startup_venture": {
+    "name": "Mediyaga - Health Frontier Protocol",
+    "location": "Kolkata, India",
+    "role": "Co-Founder & Technical Lead",
+    "duration": {
+      "start": "Jan 2025",
+      "end": "Present"
+    },
+    "details": [
+      "Developing a decentralized health protocol using Computer Vision (OCR) for prescription parsing and dosage verification",
+      "Prototyping IoT-integrated autonomous medicine vending units for 24/7 access",
+      "Secured Runners Up position at B-Plan 2025 validating scalability of autonomous pharma-retail"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Dike Protocol",
+      "year": 2025,
+      "status": "Live",
+      "tech_stack": ["Solidity", "Foundry", "Next.js", "Wagmi"],
+      "description": [
+        "Built a decentralized prediction market based on Paradigm research",
+        "Implemented collateral-based chain extensions",
+        "Designed event-driven architecture for leveraged positions and real-time price feeds with sub-second finality"
+      ]
+    },
+    {
+      "name": "DhanSetu - Paper Trading Platform",
+      "year": 2025,
+      "type": "Client Project",
+      "tech_stack": ["Next.js Server", "XMTP", "MongoDB"],
+      "description": [
+        "Architected a high-frequency trading engine using Next.js Server Architecture",
+        "Implemented atomic state management for real-time market data synchronization",
+        "Built secure user sessions and complex portfolio tracking logic"
+      ]
+    },
+    {
+      "name": "Srijoni - Hospital Management System",
+      "year": 2025,
+      "type": "Client Project",
+      "tech_stack": ["NestJS", "Next.js", "TypeScript"],
+      "description": [
+        "Developed an enterprise-grade monolithic backend handling sensitive patient records",
+        "Led full-stack integration with global state management",
+        "Designed RBAC dashboards ensuring HIPAA-compliant data privacy"
+      ]
+    },
+    {
+      "name": "BrainBoost",
+      "year": 2025,
+      "status": "Live",
+      "tech_stack": ["Next.js", "Firebase", "Azure", "Three.js"],
+      "description": [
+        "Built a copyrighted AI learning assistant with interactive 3D labs",
+        "Implemented NLP-driven curriculum generation",
+        "Designed granular security rules for student and teacher portals"
+      ]
+    }
+  ],
+  "achievements_leadership": [
+    "Finalist: ETHGlobal Delhi 2025",
+    "Lead: Google Developer Group (GDG), RCCIIT",
+    "Winner: ACM Eastern India Hackathon 2025",
+    "Winner: TechTrek InnoVision 2024",
+    "3rd Runner Up: Build on Aptos Kolkata",
+    "Finalist: Smart Bengal Hackathon 2024",
+    "Top 10: Udyam Guwahati Hackathon",
+    "Runners Up: B-Plan 2025 (Mediyaga)"
+  ],
+  "education": {
+    "institution": "RCC Institute of Information Technology",
+    "location": "Kolkata, India",
+    "degree": "Bachelor of Technology in Computer Science",
+    "duration": {
+      "start": 2023,
+      "end": 2027
+    }
+  }
+}
